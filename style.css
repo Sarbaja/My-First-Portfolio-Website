@@ -1,0 +1,138 @@
+.navbar{margin-bottom:0;border:0 !important;border-style:none !important;background-color:black  !important;letter-spacing:4px;border-radius:0 !important;opacity:0.7;padding:15px;}
+
+.navbar-brand{
+	font-weight:bold;
+	font-size:21px !important;
+	color:#aa323F !important;
+}
+.navbar li a{
+	color:white !important;
+	font-weight:bold;
+	font-size:12px !important;
+}
+.carousel-inner img {
+	width: 100%; /* Set width to 100% */
+	height:600px !important;
+	margin:auto;
+}
+.carousel-caption h3 {
+	color: #fff !important;
+}
+.carousel-caption img{
+	opacity:0.6;
+}
+
+@media (max-width: 100px){
+	.carousel-caption {
+        display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+}
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color:#D7CEC7  !important;
+}
+
+.carousel-indicators li {
+    border-color:#D7CEC7  !important;
+}
+
+.carousel-indicators li.active {
+    background-color:#D7CEC7  !important;
+}
+/* Dropdown */
+.open .dropdown-toggle {
+	background-color:black !important;
+	color:#aa323F !important;    
+}
+
+/* Dropdown links */
+.dropdown-menu li a {
+    background-color:black !important;
+	color:white !important;
+	margin:0 !important;
+}
+.dropdown-menu li a:hover {
+    color:#aa323F  !important;
+}
+.change:hover{
+	color:#aa323F  !important;
+}
+.one{
+	background-color:#aa323F !important;
+	padding-bottom:40px;
+}
+.two{
+	color:white !important;
+	background-color:#aa323F !important;
+}
+.text1{
+	font-size:20px !important;
+	padding-top:20px;
+	color:white !important;
+
+}
+.text2{
+	font-size:12px !important;
+	color:white !important;
+	line-height:0.5 !important;
+}
+.mass{
+	font-weight:bold !important;
+	color:black !important;
+}
+.sec1 > p {
+	font-size:16px !important;
+}
+.sec2 > p {
+	font-size:16px !important;
+}
+.child1{
+	font-size:14px !important;
+	
+
+}
+.three{
+	padding-top:50px;
+	background-color:#D7CEC7 !important;
+	padding-bottom:20px;
+}
+.person{
+    width:80%;
+    height:80%;
+}
+.four{
+	background-color:#C09F80 !important;
+	padding-top:40px;
+}
+.another{
+	font-size:16px;
+	color:white !important;
+}
+.box{
+	-webkit-box-shadow: 5px 5px 5px #565656;
+
+}
+.five{
+	background-color:#565656 !important;
+	padding-top:40px;
+
+}
+.last{
+	color:#76323F !important;
+	font-size:20px !important;
+	font-weight:bold !important;
+}
+.last1{
+	color:black !important;
+}
+.fourchild{
+	color:#black !important;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding-bottom:20px;
+}
+.anchor{
+	color:navy !important;
+	text-decoration:none !important;
+}

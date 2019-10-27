@@ -1,0 +1,9 @@
+.column{width: 90em;
+        padding-left: 8px;
+        }
+tr:nth-child(even){
+ background-color:green !important;
+}
+tr:nth-child(odd){
+background-color:blue !important;
+}

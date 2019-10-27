@@ -1,0 +1,80 @@
+.first{
+	background-color:#CDCDCD !important;
+
+}
+.start{
+	background-color:#52658F !important;
+}
+.start h1,p{
+	color:white! important;
+}
+.second h3{
+	color:#0F1626 !important;
+}
+.coloured{
+	background-color:#8EAEBD !important;
+}
+.coloured h3{
+	color:black !important;
+}
+.photo1{
+	height:10%;
+	width:10%;
+	-webkit-filter: grayscale(90%);
+    	filter: grayscale(90%);
+}
+.over{
+	background-color:#031424 !important;
+}
+a{
+	text-decoration:none !important;
+}
+a:hover{
+	color:#0B3CAD !important;
+}
+.foot{
+	background-color:#333A56 !important;
+	color:white !important;
+	font-weight:bold;
+	padding-top:15px;
+	font-weight:bold;
+}
+.footer{
+	padding-top:10px;
+	color:#0F1626 !important;
+}
+.point{
+	line-height:5px;
+	padding-top:10px;
+	padding-bottom:30px;
+}
+.point1{
+	padding-top:10px;
+}
+.on{
+	color:#0F1626 !important;
+}
+.modal-header{
+	padding:40px !important;
+}
+.modal-content{
+	background-color:#F5F5F5 !important;
+}
+.modal-content h3{
+	color:white !important;
+}
+.coral{
+	background-color:#0F1626 !important;
+	color:white !important;
+	border:1px solid #0F1626 !important;
+}
+.modal-header, .close {
+    	background-color:#0F1626 !important;
+    	color:white !important;
+    	text-align: center;
+    	font-size:30px;
+	font-weight:bold !important;
+}
+.modal-body {
+    	padding: 50px 60px;
+}
